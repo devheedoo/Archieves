@@ -7,7 +7,7 @@
     - 화살표 함수 사용 시 주의사항
 
 > - JavaScript 코드를 "use strict"로 바꿔주는 사이트 [링크](http://www.typescriptlang.org/play/index.html)를 줍줍했습니다. :+1:
-> - 바로 아래에 소개할 내용도 줍줍했습니다. :+1:
+> - 바로 아래 내용도 줍줍했습니다. :+1:
 
 2. [React Performance and MobX - Workday Technology - Medium](https://medium.com/workday-engineering/react-performance-and-mobx-b038085ecb72):
 
