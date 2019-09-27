@@ -4,3 +4,4 @@
 
 - [React](./React.md)
 - [MobX](./MobX.md)
+- [JavaScript](./JavaScript.md)
