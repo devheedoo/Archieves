@@ -3,6 +3,8 @@
 :notebook_with_decorative_cover: 학습한 내용을 짤막하게 기록하는 공간
 
 - [JavaScript](./JavaScript.md)
+- [Firebase](./Firebase.md)
 - [MobX](./MobX.md)
 - [React](./React.md)
 - [React Native](./ReactNative.md)
+
