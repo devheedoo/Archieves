@@ -5,6 +5,7 @@
 - [Firebase](./Firebase.md)
 - [Git](./Git.md)
 - [JavaScript](./JavaScript.md)
+- [Mac](./Mac.md)
 - [MobX](./MobX.md)
 - [React](./React.md)
 - [React Native](./ReactNative.md)

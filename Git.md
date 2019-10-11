@@ -6,5 +6,6 @@
      - `git checkout` > `git switch`
      - `git checkout <filename>` > `git restore`
 2. [Git 브랜치 Rebase하기 | Git](https://git-scm.com/book/ko/v1/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-Rebase%ED%95%98%EA%B8%B0)
-   - 커밋 여러 개를 깔끔하게 하나로 합칠 때 `rebase` 사용하기
-
+   - 커밋 여러 개를 깔끔하게 하나로 합칠 때 `rebase` 사용하기\
+3. [About code owners | GitHub Help](https://help.github.com/en/articles/about-code-owners)
+   - 깃헙 저장소 권한 설정 파일
