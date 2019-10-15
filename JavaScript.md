@@ -7,4 +7,9 @@
     - 예제 실행 시 오류가 나서 봤더니, *As of August 2019, no environment natively implements this feature.* :cry:
 2. [화살표 함수를 사용해서는 안 되는 경우 | 화살표 함수 | PoiemaWeb](https://poiemaweb.com/es6-arrow-function)
     - 메소드, 생성자, 프로토타입, 콜백 함수
-
+3. [How to write async await without try-catch blocks in JavaScript | codebits](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+    - **to.js** wrapper를 사용해서 `let err, user;` 정의 후 `[err, user] = await to(UserModel.findById(1));`
+4. [Async/await without try/catch in JavaScript - Dzmitry Bayarchyk | Medium](https://itnext.io/async-await-without-try-catch-in-javascript-6dcdf705f8b1)
+    - **Promise.prototype.catch** 사용해서 `const posts = await fetchPosts().catch(() => { console.log('error'); });`
+    - 위의 3번과 비교했을 때 wrapper를 지양하는 면에서 4번이 더 나은 것 같다.
+5. 
