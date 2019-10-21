@@ -7,6 +7,7 @@
 - [JavaScript](./JavaScript.md)
 - [Mac](./Mac.md)
 - [MobX](./MobX.md)
+- [Naming](./Naming.md)
 - [React](./React.md)
 - [React Native](./ReactNative.md)
 

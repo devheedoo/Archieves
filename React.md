@@ -10,4 +10,6 @@
     - 사용하는 부분과 바꿔서 사용할 부분을 정리할 예정이다.
 4. [runInAction | action | MobX](https://mobx.js.org/refguide/action.html#runinactionname-thunk)
     - 일회성 action의 경우 runInAction이라는 설탕을 사용한다.
+5. [자바스크립트 테스팅의 기초](https://velog.io/@velopert/자바스크립트-테스팅의-기초)
+    - Jest가 Jasmine을 기반으로 만들어서 그런지 기초 과정은 똑같았다.
 
