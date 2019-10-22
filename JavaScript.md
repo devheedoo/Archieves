@@ -14,4 +14,15 @@
     - 위의 3번과 비교했을 때 wrapper를 지양하는 면에서 4번이 더 나은 것 같다.
 5. [How do I create a dynamic key to be added to a JavaScript object variable | StackOverflow](https://stackoverflow.com/questions/2462800/how-do-i-create-a-dynamic-key-to-be-added-to-a-javascript-object-variable)
     - ES6 기능으로 `obj = { [key]: value }` 와 같이 동적으로 추가할 수 있다.
+6. [Avoiding Promise.all() fail-fast behavior](https://nmaggioni.xyz/2016/10/13/Avoiding-Promise-all-fail-fast-behavior/)
+    - `Promise.all()` 은 하나라도 reject가 발생하면 종료한다.
+    - 종료하더라도 모든 결과를 받을 수 있게 코드 작성하기
+
+```javascript
+const toResultObject = (promise) => {
+    return promise
+    .then(result => ({ success: true, result }))
+    .catch(error => ({ success: false, error }));
+};
+```
 
