@@ -5,4 +5,5 @@
 2. [What is AsyncStorage in React Native and how to use it with app state manager - Tasos Maroudas | Medium](https://medium.com/building-with-react-native/what-is-asyncstorage-in-react-native-and-how-you-to-use-it-with-app-state-manager-1x09-b8c636ce5f6e)
    - 앱이 종료되어도 지워지지 않게 데이터를 저장하는 방법
    - 원래 React Native 내장 API였지만 현재는 [@react-native-community/async-storage](https://github.com/react-native-community/async-storage) 로 대체되었다.
-
+3. `FlatList.scrollToEnd()`가 동작하지 않았던 이유
+   - `FlatList`가 `ScrollView`로 감싸져 있었기 때문이었다.
