@@ -14,4 +14,5 @@
 - [React](./React.md)
 - [React Native](./React-Native.md)
 - [Tutorials](./Tutorials.md)
+- [TypeScript](./TypeScript.md)
 
