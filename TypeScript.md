@@ -25,4 +25,10 @@
        }
      }
      ```
+   
+2. [Adopting TypeScript at Scale](https://www.youtube.com/watch?v=P-J9Eg7hJwE)
+
+   - Airbnb에서의 경험을 토대로 한 발표
+   - TypeScript를 적용하면 좋은 점
+   - JavaScript에서 TypeScript로 옮기는 방법 2가지
 
