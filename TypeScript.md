@@ -31,4 +31,17 @@
    - Airbnb에서의 경험을 토대로 한 발표
    - TypeScript를 적용하면 좋은 점
    - JavaScript에서 TypeScript로 옮기는 방법 2가지
+   
+3. [TypeScript Interface Functions - Jeff Butsch | Medium](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1)
+
+   - 인터페이스에서 함수 타입 선언 방법
+
+      ```typescript
+      interface MyClassProps {
+        onChange?(name: string): number;
+        niceProp: boolean;
+      }
+      ```
+
+
 
