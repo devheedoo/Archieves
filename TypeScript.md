@@ -43,5 +43,13 @@
       }
       ```
 
+4. [Property renaming](http://www.typescriptlang.org/docs/handbook/variable-declarations.html#property-renaming)
 
+   - Destructuring
+
+      ```typescript
+      let { a, b }: { a: string, b: number } = o;
+      ```
+
+      
 
