@@ -8,6 +8,7 @@
 - [Git](./Git.md)
 - [GitHub Repos](./GitHub-Repos.md)
 - [JavaScript](./JavaScript.md)
+- [Jest](./Jest.md)
 - [Mac](./Mac.md)
 - [MobX](./MobX.md)
 - [Naming](./Naming.md)
