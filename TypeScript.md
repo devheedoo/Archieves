@@ -51,5 +51,11 @@
       let { a, b }: { a: string, b: number } = o;
       ```
 
-      
+5. [Intersection Types](https://www.typescriptlang.org/docs/handbook/advanced-types.html#intersection-types)
+
+   - 여러 타입들을 합집합으로 사용하기 (재사용성)
+
+6. [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
+
+   - 타입스크립트 문서만 보고 나서 코드를 짜려면 막막하다. 꿀팁, 꿀패턴 모음!
 
