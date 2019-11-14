@@ -11,4 +11,5 @@
    - 깃헙 저장소 권한 설정 파일
 4. [Remote branch not showing up in “git branch -r”](https://stackoverflow.com/questions/12319968/remote-branch-not-showing-up-in-git-branch-r)
    - `git checkout origin/BRANCH_NAME` 으로 최초 checkout 시 생길 수 있는 일
+   - [10.5 Git Internals - The Refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec) 처럼 Git 세부 사항도 읽어보자
 
