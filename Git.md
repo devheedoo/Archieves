@@ -9,4 +9,6 @@
    - 커밋 여러 개를 깔끔하게 하나로 합칠 때 `rebase` 사용하기\
 3. [About code owners | GitHub Help](https://help.github.com/en/articles/about-code-owners)
    - 깃헙 저장소 권한 설정 파일
+4. [Remote branch not showing up in “git branch -r”](https://stackoverflow.com/questions/12319968/remote-branch-not-showing-up-in-git-branch-r)
+   - `git checkout origin/BRANCH_NAME` 으로 최초 checkout 시 생길 수 있는 일
 
