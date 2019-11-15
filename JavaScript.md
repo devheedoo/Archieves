@@ -26,3 +26,6 @@ const toResultObject = (promise) => {
 };
 ```
 
+7. [Optional Chaining - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining#Syntax)
+   - 함수에 Optional Chaining은 `func?.(args)` 처럼 사용한다.
+
