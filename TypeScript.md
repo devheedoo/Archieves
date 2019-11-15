@@ -58,4 +58,8 @@
 6. [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680)
 
    - 타입스크립트 문서만 보고 나서 코드를 짜려면 막막하다. 꿀팁, 꿀패턴 모음!
+   
+7. [In Typescript, what is the ! (exclamation mark / bang) operator when dereferencing a member?](https://stackoverflow.com/a/42274019/5722210)
+
+   - Optional chaining과 비슷하게 사용하고 있었던 `!` 기능 정리
 
