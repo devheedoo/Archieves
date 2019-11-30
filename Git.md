@@ -12,4 +12,6 @@
 4. [Remote branch not showing up in “git branch -r”](https://stackoverflow.com/questions/12319968/remote-branch-not-showing-up-in-git-branch-r)
    - `git checkout origin/BRANCH_NAME` 으로 최초 checkout 시 생길 수 있는 일
    - [10.5 Git Internals - The Refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec) 처럼 Git 세부 사항도 읽어보자
+5. [원격 저장소에 올라간 커밋 되돌리기 - jupiny](https://jupiny.com/2019/03/19/revert-commits-in-remote-repository/)
+   - 실수로 다른 브랜치에서 작업하다가 뒤늦게 알았을 때
 
