@@ -12,4 +12,7 @@
     - 일회성 action의 경우 runInAction이라는 설탕을 사용한다.
 5. [자바스크립트 테스팅의 기초](https://velog.io/@velopert/자바스크립트-테스팅의-기초)
     - Jest가 Jasmine을 기반으로 만들어서 그런지 기초 과정은 똑같았다.
+6. [File Structure - React](https://reactjs.org/docs/faq-structure.html)
+    - [ features / routes / file type ] 에 따라 나누고, 깊이는 4단계 이하로 권장한다.
+    - 만약 프로젝트를 막 시작하는 도중이라면 파일 구조를 결정하는 데에 5분 이상 고민하지 마라.
 
