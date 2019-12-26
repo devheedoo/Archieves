@@ -14,4 +14,8 @@
    - [10.5 Git Internals - The Refspec](https://git-scm.com/book/en/v2/Git-Internals-The-Refspec) 처럼 Git 세부 사항도 읽어보자
 5. [원격 저장소에 올라간 커밋 되돌리기 - jupiny](https://jupiny.com/2019/03/19/revert-commits-in-remote-repository/)
    - 실수로 다른 브랜치에서 작업하다가 뒤늦게 알았을 때
+6. [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164)
+   - `git clean -fd`
+7. [Git switch branch without discarding local changes](https://stackoverflow.com/questions/22082307/git-switch-branch-without-discarding-local-changes)
+   - `git stash` 를 이용한다
 

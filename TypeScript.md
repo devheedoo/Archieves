@@ -62,4 +62,12 @@
 7. [In Typescript, what is the ! (exclamation mark / bang) operator when dereferencing a member?](https://stackoverflow.com/a/42274019/5722210)
 
    - Optional chaining과 비슷하게 사용하고 있었던 `!` 기능 정리
+   
+8. [Set default value to class members](https://stackoverflow.com/questions/49434944/typescript-set-default-value-for-class-members/49435240)
+
+   - `constructor(/*...*/)` 에서 처리한다
+
+9. [Error Duplicate Const Declaration in Switch Case Statement](https://stackoverflow.com/a/35746467/5722210)
+
+   - `case` 문을 블록 `{}` 으로 묶어서 해결한다
 
