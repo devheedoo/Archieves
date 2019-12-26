@@ -71,3 +71,15 @@
 
    - `case` 문을 블록 `{}` 으로 묶어서 해결한다
 
+10. TypeScript는 lodash 결과를 예상하지 못한다.
+
+   ```typescript
+   let playerByNextPlayerId: CrocodileDentistPlayer | null = null;
+   _.forEach(players, player => {
+     if (player.nextPlayerId.includes(word)) {
+       playerByNextPlayerId = player;
+     }
+   });
+   return playerByNextPlayerId;	// expected as only null
+   ```
+

@@ -7,3 +7,8 @@
    - 원래 React Native 내장 API였지만 현재는 [@react-native-community/async-storage](https://github.com/react-native-community/async-storage) 로 대체되었다.
 3. `FlatList.scrollToEnd()`가 동작하지 않았던 이유
    - `FlatList`가 `ScrollView`로 감싸져 있었기 때문이었다.
+4. [React Native > Layout Props > `AspectRatio`](https://facebook.github.io/react-native/docs/layout-props#aspectratio)
+   - `flex` 를 사용하면서 가로/세로 비율 고정하기
+5. [React Native > View > pointerEvents](https://facebook.github.io/react-native/docs/view#pointerevents)
+   - 레이어 뒤로 터치 이벤트를 넘겨야 할 때
+

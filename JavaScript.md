@@ -28,4 +28,7 @@ const toResultObject = (promise) => {
 
 7. [Optional Chaining - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining#Syntax)
    - 함수에 Optional Chaining은 `func?.(args)` 처럼 사용한다.
+8. [Is it better to return `undefined` or `null` from a javascript function?](https://stackoverflow.com/questions/37980559/is-it-better-to-return-undefined-or-null-from-a-javascript-function)
+   - 그 때 그 때 다르다
+9. 
 
