@@ -67,11 +67,7 @@
 
    - `constructor(/*...*/)` 에서 처리한다
 
-9. [Error Duplicate Const Declaration in Switch Case Statement](https://stackoverflow.com/a/35746467/5722210)
-
-   - `case` 문을 블록 `{}` 으로 묶어서 해결한다
-
-10. TypeScript는 lodash 결과를 예상하지 못한다.
+9. TypeScript는 lodash 결과를 예상하지 못한다.
 
    ```typescript
    let playerByNextPlayerId: CrocodileDentistPlayer | null = null;

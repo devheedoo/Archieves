@@ -30,5 +30,6 @@ const toResultObject = (promise) => {
    - 함수에 Optional Chaining은 `func?.(args)` 처럼 사용한다.
 8. [Is it better to return `undefined` or `null` from a javascript function?](https://stackoverflow.com/questions/37980559/is-it-better-to-return-undefined-or-null-from-a-javascript-function)
    - 그 때 그 때 다르다
-9. 
+9. [Error Duplicate Const Declaration in Switch Case Statement](https://stackoverflow.com/a/35746467/5722210)
+   - `case` 문을 블록 `{}` 으로 묶어서 해결한다
 
