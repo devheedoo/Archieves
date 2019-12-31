@@ -8,4 +8,6 @@
    - ICE 는 두 단말이 통신할 수 있는 최적의 경로를 찾아주는 프레임워크, 방법을 말한다
 4. [Yarn - Migrating from npm](https://yarnpkg.com/en/docs/migrating-from-npm#toc-cli-commands-comparison)
    - npm 명령어들을 yarn 에서 어떻게 사용하는지 간단 정리
+5. [사파리 한글 폰트 설정](https://emflant.tistory.com/177)
+   - @font-face` 를 이용해 돋움, 굴림체 등일 때 `Apple SD Gothic Neo` 폰트로 변경되도록 CSS 설정
 

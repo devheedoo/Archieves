@@ -78,4 +78,8 @@
    });
    return playerByNextPlayerId;	// expected as only null
    ```
+   
+10. [TypeScript: `declare` keyword on `index.d.ts`](https://github.com/prettier/prettier/issues/2567#issuecomment-319279639)
+
+   - `declare` 키워드를 사용하면 모든 TypeScript 파일의 컴파일에 적용된다
 
