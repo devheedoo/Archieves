@@ -82,4 +82,13 @@
 10. [TypeScript: `declare` keyword on `index.d.ts`](https://github.com/prettier/prettier/issues/2567#issuecomment-319279639)
 
    - `declare` 키워드를 사용하면 모든 TypeScript 파일의 컴파일에 적용된다
+   
+11. [Write Beautiful OO Classes with TypeScript](https://medium.com/iqoqo-engineering/write-beautiful-oo-classes-with-typescript-d708cc9fd9c3)
+
+   1. Add type
+   2. Use `private` for members
+   3. Get rid of member declarations by constructor's paramters
+   4. Use prefix `_` to members for getters and setters
+   5. Use `static` for properties of the class itself
+   6. Use `readonly` for immutable things
 
